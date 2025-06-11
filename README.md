@@ -43,41 +43,18 @@ class Atharva:
 
 ---
 
-### 🛠️ Featured Projects
-
-- 🤖 **RAG Chatbot** – PDF Q&A with LangChain, FAISS, BM25, and Gemini Pro
-- 📘 **Smart Document Insight** – Answering queries from ROSE & ELXC-SPC technical manuals
-- 🔍 **Hybrid Retriever System** – EnsembleRetriever + MultiQueryRetriever
-- ☁️ **Deployments** – Azure, Streamlit Cloud, Snowflake
-
----
-
 ### 🧪 Currently Exploring
 
 - 🔬 Multimodal RAG for images + documents  
-- 🤝 Integrating OpenAI Assistants API in production pipelines  
-- 📈 LLM performance optimization for enterprise apps  
-- 🧠 Memory-aware RAG bots with long-term context  
-
----
-
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" />
-</p>
+- 🤝 Integrating Gemini and Llama3 LLM's in production pipelines  
+- 🧠 Object Detection with YOLO  
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=flat-square&logo=react"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=flat-square&logo=github"/></a>
+  <a href="mailto:atharva@fdesindia.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"/></a>
 </p>
 
 ---
