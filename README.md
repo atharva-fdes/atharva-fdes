@@ -32,7 +32,7 @@ class Atharva:
 ### 🚀 Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,fastapi,openai,git,docker,linux,vscode,github,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=python, js, cpp, ai, mysql, html, css, flask, git, vscode, github" />
 </div>
 
 <p align="center">
